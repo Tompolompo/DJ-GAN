@@ -18,4 +18,6 @@ dependencies:
 - pip:
   - tensorflow
   - pip-tools
+  - hub
+  - hub[audio]
 
